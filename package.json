@@ -14,7 +14,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "parcel build src/*.https://github.com/katerynahunko/project-02",
+    "build": "parcel build src/*.html --public-url /project-02/",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "lint:js": "eslint src/**/*.{js,jsx}"
